@@ -1,4 +1,4 @@
-## MLOps Major Assignment – Linear Regression Pipeline
+### MLOps Major Assignment – Linear Regression Pipeline
 
 ## Overview
 This project implements a **complete MLOps pipeline** using the **California Housing dataset** and **Linear Regression**
