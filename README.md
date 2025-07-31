@@ -39,9 +39,9 @@ The entire workflow runs in a single branch (`main`) as per the guidelines.
 
 | Metric                | Original Model (float64) | Quantized Model (float16) |
 |-----------------------|---------------------------|----------------------------|
-| R² Score             | 0.576                     | 0.576                     |
-| MSE                  | 0.556                     | 0.556                     |
-| Params Memory (KB)   | 0.07                      | 0.02                      |
+| R² Score             | 0.5758                     | 0.5755                     |
+| MSE                  | 0.5559                     | 0.5563                     |
+| Params Memory (KB)   | 0.07                        | 0.02                      |
 
 
 
